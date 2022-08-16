@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <title>Bolo de Cenoura</title>
+
+       </head>
+       <body>
+           <h1>Bolo de cenoura com cobertura de chocolate</h1>
+           <p>Tal qual conhecemos hoje, o bolo de cenoura é brasileiro...</p>
+           <br>
+
+           <h2>Ingredientes da massa</h2>
+           <p>1/2 xícara (chá) de óleo, 3 cenouras médias raladas...</p>
+           <br>
+
+           <h2>Ingredientes da cobertura</h2>
+           <p>1 colher (sopa) de manteiga, 3 colheres (sopa) de chocolate em pó...</p>
+           <br>
+
+           <h2>Preparo da massa</h2>
+           <p>Em um liquidificador, adicione a cenoura, os ovos e o óleo...</p>
+           <br>
+
+           <h2>Preparo da cobertura</h2>
+           <p>Despeje em uma tijela a manteiga, o chocolate em pó...</p>
+           <br>
+
+           <a href="https://www.receitasnestle.com.br/receitas/bolo-de-cenoura-com-cobertura-de-brigadeiro?gclid=Cj0KCQ
+           iAmKiQBhClARIsAKtSj-kzx6n-Ro4xnAqzVDEosntVnSsX-SA73CWoAb24ycutdVkezlWW2WsaAhRsEALw_wcB&gclsrc=aw.ds">Veja a 
+           receita completa aqui</a>
+       </body>
+</html>
